@@ -4,12 +4,18 @@ I am an assistant professor at School of Public, Nonprofit & Health Administrati
 
 My research focuses on the effects of public and nonprofit information on citizens' decisions of coproducing public goods and services. My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2018. My experimental study of [representative bureaucracy](https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12401) was one of the 2018 *Public Administration Review*'s highly cited articles.  
 
+I am currently serving the associate editor for [*Chinese Public Administration Review*](https://cpar.net/) and the social media editor for [*Public Performance & Management Review*](https://www.tandfonline.com/toc/mpmr20/current).
+
 ![alt text](https://avatars3.githubusercontent.com/u/10341996?s=460&v=4)
 
 You can reach me at: lih@gvsu.edu | [@lihuafang](https://twitter.com/lihuafang) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=ku5cRAYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### Research 
-My research interests are research methods, public administratin and nonprofit management, and comparative public administration with a focus on China. 
+My research interests are **research methods**, **public administratin and nonprofit management**, and **comparative public administration** with a focus on China. 
 
 #### Research Methods
-I used mixed methods including big data analysis and conjoint experiment in [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ). 
+I used mixed methods in various studies and believe that no method is superior than the others. 
+
+I use big data analysis and conjoint experiment in my dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ). 
+
+I conduct experiments to research the effects of democractic values ([representativeness](https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12401)) and nonprofit [performance and accountability information](https://doi.org/doi:10.7282/T35T3PDQ) on individuals' coproduction decisions. 
