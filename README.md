@@ -1,3 +1,3 @@
-# lihuafang.github.io
+# Huafang Li
 
 Welcome to my GitHub page.
