@@ -14,7 +14,7 @@ You can reach me at: lih@gvsu.edu | [@lihuafang](https://twitter.com/lihuafang) 
 My research interests are **research methods**, **public administratin and nonprofit management**, and **comparative public administration** with a focus on China. 
 
 #### Research Methods
-I used mixed methods in various studies and believe that no method is superior than the others. 
+I use mixed methods in various studies and believe that no methods are superior than the others. 
 
 I use big data analysis and conjoint experiment in my dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ). 
 
