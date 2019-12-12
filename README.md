@@ -4,7 +4,7 @@ I am an assistant professor at School of Public, Nonprofit & Health Administrati
 
 I am interested in research methods, public administration and nonprofit management, and comparative public administration with a focus on China. Currently, I am using mixed methods, such as machine learning and experiments, to study the effects of public and nonprofit information on citizens' decisions of coproducing public goods and services and charitable giving. 
 
-My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2018. My experimental study of [representative bureaucracy](https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12401) was one of the 2018 *Public Administration Review*'s highly cited articles. 
+My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2018. My experimental study of [representative bureaucracy](https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12401) was one of the 2018 *Public Administration Review*'s highly cited articles. I was awarded the ARNOVA Emerging Scholar Award (2016), the ASPA Founders' Fellow (2019), and the GVSU Distinguished Early Career Scholar Award (2019).
 
 I am currently serving as the associate editor for [*Chinese Public Administration Review*](https://cpar.net/) and the social media editor for [*Public Performance & Management Review*](https://www.tandfonline.com/toc/mpmr20/current).
 
