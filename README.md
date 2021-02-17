@@ -6,7 +6,7 @@ I am interested in research methods, public administration and nonprofit managem
 
 My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2018. I was awarded the ARNOVA Emerging Scholar Award (2016), the ASPA Founders' Fellow (2020), and the GVSU Distinguished Early Career Scholar Award (2020).
 
-I am currently serving as the editor of [*The China Nonprofit Review*](https://brill.com/view/journals/cnpr/cnpr-overview.xml), associate editor of [*Chinese Public Administration Review*](https://cpar.net/), and the social media editor of [*Public Performance & Management Review*](https://www.tandfonline.com/toc/mpmr20/current).
+I am currently serving as the editor of [*Chinese Public Administration Review*](https://cpar.net/), the editor of [*The China Nonprofit Review*](https://brill.com/view/journals/cnpr/cnpr-overview.xml), and the social media editor of [*Public Performance & Management Review*](https://www.tandfonline.com/toc/mpmr20/current).
 
 ![alt text](https://avatars3.githubusercontent.com/u/10341996?s=460&v=4)
 
