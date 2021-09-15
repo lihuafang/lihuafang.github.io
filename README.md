@@ -4,7 +4,7 @@ I am an assistant professor in the College of Education and Community Innovation
 
 I am interested in research methods, public administration and nonprofit management, and comparative public administration with a focus on China. Currently, I am using mixed methods, such as machine learning and experiments, to study how public and nonprofit information influence coproduction and donation. My works appeared in *Public Administration Review*, *Public Management Review*, *American Review of Public Administration*, *Nonprofit & Voluntary Sector Quarterly*, among others. 
 
-My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2018. I was awarded the ARNOVA Emerging Scholar Award (2016), the ASPA Founders' Fellow (2020), and the GVSU Distinguished Early Career Scholar Award (2020).
+My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2018. I was awarded the GVSU Russell G. Mawby Faculty Fellow in Philanthropic Studies, the GVSU Outstanding Contribution in a Discipline Award (2021), the GVSU Distinguished Early Career Scholar Award (2020), the ASPA Founders' Fellow (2020), and the ARNOVA Emerging Scholar Award (2016).
 
 I am currently serving as the editor of [*Chinese Public Administration Review*](https://cpar.net/), the editor of [*The China Nonprofit Review*](https://brill.com/view/journals/cnpr/cnpr-overview.xml), and the social media editor of [*Public Performance & Management Review*](https://www.tandfonline.com/toc/mpmr20/current).
 
