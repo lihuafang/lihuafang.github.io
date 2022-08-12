@@ -1,6 +1,6 @@
 ## [Huafang Li](https://lihuafang.github.io/) 
 
-### [CV](https://drive.google.com/open?id=1o8nxexoyQZ5tP2sBtk7huEcD8BsFMrWL) | [Research](https://scholar.google.com/citations?hl=en&user=ku5cRAYAAAAJ&view_op=list_works&sortby=pubdate) | [Teaching](https://github.com/lihuafang/teaching/blob/master/README.md) | [@lihuafang](https://twitter.com/lihuafang) | [中文写作](https://github.com/lihuafang/cnwriting)
+### [CV](https://drive.google.com/file/d/1k0t8PkFuqqPuCOAN4CRhwH1E2pLlRzPd/view) | [Research](https://scholar.google.com/citations?hl=en&user=ku5cRAYAAAAJ&view_op=list_works&sortby=pubdate) | [Teaching](https://github.com/lihuafang/teaching/blob/master/README.md) | [@lihuafang](https://twitter.com/lihuafang) | [中文写作](https://github.com/lihuafang/cnwriting)
 
 I am an assistant professor of public and nonprofit management in the Graduate School of Public and International Affairs ([GSPIA](https://www.gspia.pitt.edu/)) at University of Pittsburgh where I research and teach public administration and nonprofit management. Proir to GSPIA@Pitt, I was an assistant professor at [Grand Valley State University](https://www.gvsu.edu/spnha/). I earned my PhD from [Rutgers University](http://spaa.newark.rutgers.edu), MPA from [American University](https://www.american.edu/spa/), and BA in Economics from [Zhejiang University](http://www.cec.zju.edu.cn/). 
 
