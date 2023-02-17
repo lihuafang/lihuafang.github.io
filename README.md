@@ -6,10 +6,8 @@ I am an assistant professor of public and nonprofit management in the Graduate S
 
 I am interested in research methods, public administration and nonprofit management, and comparative public administration with a focus on China. Currently, I am using mixed methods, such as machine learning and experiments, to study how public and nonprofit information influence coproduction and donation. My works appeared in *Public Administration Review*, *Public Management Review*, *American Review of Public Administration*, *Nonprofit & Voluntary Sector Quarterly*, among others. 
 
-My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2017. I was awarded the GVSU Russell G. Mawby Faculty Fellow in Philanthropic Studies, the GVSU Outstanding Contribution in a Discipline Award (2021), the GVSU Distinguished Early Career Scholar Award (2020), the ASPA Founders' Fellow (2020), and the ARNOVA Emerging Scholar Award (2016).
-
-I am currently serving as a co-editor of [*Chinese Public Administration Review*](https://journals.sagepub.com/home/cpp).
+My dissertation [*Information and Donations*](https://doi.org/doi:10.7282/T35T3PDQ) was awarded the Public Management Research Association [Best Dissertation Award](https://pmranet.org/awards/) in 2017. I was awarded the GVSU Russell G. Mawby Faculty Fellow in Philanthropic Studies (2021), the GVSU Outstanding Contribution in a Discipline Award (2021), the GVSU Distinguished Early Career Scholar Award (2020), the ASPA Founders' Fellow (2020), and the ARNOVA Emerging Scholar Award (2016).
 
 ![alt text](https://avatars3.githubusercontent.com/u/10341996?s=460&v=4)
 
-You can reach me at: lihuafang@gmail.com | [@lihuafang](https://twitter.com/lihuafang) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=ku5cRAYAAAAJ&view_op=list_works&sortby=pubdate).
+You can reach me at: lihuafang@pitt.edu | [@lihuafang](https://twitter.com/lihuafang) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=ku5cRAYAAAAJ&view_op=list_works&sortby=pubdate).
